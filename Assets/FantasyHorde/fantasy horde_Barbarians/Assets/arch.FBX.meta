@@ -1,0 +1,270 @@
+fileFormatVersion: 2
+guid: 8d0f2e81bd4628743970bb391d18364b
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: bone_elf arch_botton00
+    100004: bone_elf arch_botton01
+    100006: bone_elf arch_main
+    100008: bone_elf arch_top00
+    100010: bone_elf arch_top01
+    100012: bone_goblin arch_botton_tip
+    100014: bone_goblin arch_top_tip
+    100016: ctrl_goblin arch_arrow
+    100018: ctrl_goblin arch_dummie botton
+    100020: ctrl_goblin arch_dummie top
+    100022: ctrl_goblin arch_main
+    100024: elf_arch_01
+    100026: IK_goblin arch_botton
+    100028: IK_goblin arch_top
+    400000: //RootNode
+    400002: bone_elf arch_botton00
+    400004: bone_elf arch_botton01
+    400006: bone_elf arch_main
+    400008: bone_elf arch_top00
+    400010: bone_elf arch_top01
+    400012: bone_goblin arch_botton_tip
+    400014: bone_goblin arch_top_tip
+    400016: ctrl_goblin arch_arrow
+    400018: ctrl_goblin arch_dummie botton
+    400020: ctrl_goblin arch_dummie top
+    400022: ctrl_goblin arch_main
+    400024: elf_arch_01
+    400026: IK_goblin arch_botton
+    400028: IK_goblin arch_top
+    4300000: elf_arch_01
+    7400000: arch
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: elf_arch_01
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: '
+
+      Imported file ''arch'' conversion failed: Required human bone ''LeftUpperLeg''
+      not found
+
+
+'
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: arch
+      takeName: 
+      firstFrame: 0
+      lastFrame: 50
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: ctrl_goblin arch_main
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone_elf arch_botton00
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone_elf arch_botton01
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone_goblin arch_botton_tip
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone_elf arch_top00
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone_elf arch_top01
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone_goblin arch_top_tip
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: arch(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: ctrl_goblin arch_main
+      position: {x: -0.35897547, y: 0.844909, z: 0.057530478}
+      rotation: {x: 0.5154741, y: 0.37761176, z: 0.45702395, w: 0.6187285}
+      scale: {x: 1.0000002, y: 1.000002, z: 1.0000002}
+      transformModified: 1
+    - name: ctrl_goblin arch_arrow
+      position: {x: 0.26275063, y: -0.010055084, z: 0.023827743}
+      rotation: {x: -0.7071068, y: 0.0000000013170892, z: -0.000000001317089, w: 0.7071067}
+      scale: {x: 0.99999994, y: 1, z: 0.9999999}
+      transformModified: 1
+    - name: bone_elf arch_botton00
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0.5541985, y: -0.008382127, z: 0.20756799, w: 0.80604553}
+      scale: {x: 1.0000015, y: 1.0000001, z: 0.9999979}
+      transformModified: 1
+    - name: bone_elf arch_botton01
+      position: {x: -0.560729, y: 0.0000022125244, z: 0.000000076293944}
+      rotation: {x: 0.006300195, y: 0.001566678, z: 0.13149273, w: -0.99129593}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1}
+      transformModified: 1
+    - name: bone_goblin arch_botton_tip
+      position: {x: -0.5614598, y: -0.0000003814697, z: 0}
+      rotation: {x: 0.2598315, y: -0.022242077, z: -0.53621817, w: 0.8027846}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+      transformModified: 1
+    - name: bone_elf arch_top00
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -0.12110761, y: -0.55553126, z: 0.78068185, w: -0.25933352}
+      scale: {x: 1.0000019, y: 0.9999994, z: 1}
+      transformModified: 1
+    - name: bone_elf arch_top01
+      position: {x: -0.5943049, y: -0.0000007629394, z: -0.000000076293944}
+      rotation: {x: 0.4415128, y: -0.10727913, z: 0.7560374, w: 0.4711318}
+      scale: {x: 0.99999994, y: 1, z: 1}
+      transformModified: 1
+    - name: bone_goblin arch_top_tip
+      position: {x: -0.57681173, y: 0.00000034332274, z: 0}
+      rotation: {x: -0.0000044423587, y: -0.0000012435756, z: 0.4613627, w: 0.8872116}
+      scale: {x: 0.9999999, y: 1, z: 0.99999994}
+      transformModified: 1
+    - name: ctrl_goblin arch_dummie botton
+      position: {x: -0, y: -0.070697986, z: 0}
+      rotation: {x: -0.7071068, y: 0.0000000013170892, z: -0.000000001317089, w: 0.7071067}
+      scale: {x: 0.99999994, y: 1, z: 0.9999999}
+      transformModified: 1
+    - name: IK_goblin arch_botton
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -0.0000000121071935, y: 0.0000000018626451, z: 2.2551407e-17,
+        w: 1}
+      scale: {x: 1, y: 1, z: 1.0000001}
+      transformModified: 1
+    - name: ctrl_goblin arch_dummie top
+      position: {x: -0.0027908324, y: 0.06511711, z: 0.0000022125244}
+      rotation: {x: 0.0000025527495, y: 0.000007852002, z: 0.5370429, w: 0.8435549}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+      transformModified: 1
+    - name: IK_goblin arch_top
+      position: {x: -0.0000007629394, y: -0.00000030517577, z: -0.0000021743774}
+      rotation: {x: -0.5964854, y: 0.37974125, z: -0.3797521, w: 0.59648144}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: bone_elf arch_main
+      position: {x: 0.00879303, y: -0.0446565, z: 0}
+      rotation: {x: 0.000000014996447, y: -0.000000014186444, z: -0.6872157, w: 0.72645354}
+      scale: {x: 0.99999994, y: 0.99999994, z: 0.99999994}
+      transformModified: 1
+    - name: elf_arch_01
+      position: {x: -1.9055176, y: 0.42394394, z: -0.0027595568}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

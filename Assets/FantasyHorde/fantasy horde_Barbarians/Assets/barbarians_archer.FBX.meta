@@ -1,0 +1,897 @@
+fileFormatVersion: 2
+guid: 216e8785dfa005246b7ec69844d9c4e2
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: barbarian
+    100002: Barbarian_weaponL
+    100004: Barbarian_weaponR
+    100006: Barbariancloth_back
+    100008: Barbariancloth_front
+    100010: BarbarianHead
+    100012: BarbarianLCalf
+    100014: BarbarianLCollarbone
+    100016: BarbarianLDigit11
+    100018: BarbarianLDigit11 1
+    100020: BarbarianLDigit12
+    100022: BarbarianLDigit13
+    100024: BarbarianLDigit21
+    100026: BarbarianLDigit22
+    100028: BarbarianLDigit23
+    100030: BarbarianLDigit31
+    100032: BarbarianLDigit32
+    100034: BarbarianLDigit33
+    100036: BarbarianLFoot
+    100038: BarbarianLForearm
+    100040: BarbarianLPalm
+    100042: BarbarianLThigh
+    100044: BarbarianLUpperarm
+    100046: BarbarianNeck
+    100048: BarbarianPelvis
+    100050: BarbarianRCalf
+    100052: BarbarianRCollarbone
+    100054: BarbarianRDigit11
+    100056: BarbarianRDigit11 1
+    100058: BarbarianRDigit12
+    100060: BarbarianRDigit13
+    100062: BarbarianRDigit21
+    100064: BarbarianRDigit22
+    100066: BarbarianRDigit23
+    100068: BarbarianRDigit31
+    100070: BarbarianRDigit32
+    100072: BarbarianRDigit33
+    100074: BarbarianRFoot
+    100076: BarbarianRForearm
+    100078: BarbarianRibcage
+    100080: BarbarianRPalm
+    100082: BarbarianRThigh
+    100084: BarbarianRUpperarm
+    100086: //RootNode
+    100088: BarbarianSpine1
+    100090: BarbarianSpine2
+    100092: BarbarianSpine3
+    100094: bon_gob_war_face
+    100096: bon_gob_war_jaw
+    100098: bone_elf arch_botton00
+    100100: bone_elf arch_botton01
+    100102: bone_elf arch_main
+    100104: bone_elf arch_top00
+    100106: bone_elf arch_top01
+    100108: bone_goblin arch_botton_tip
+    100110: bone_goblin arch_top_tip
+    100112: ctrl_goblin arch_arrow
+    100114: ctrl_goblin arch_dummie botton
+    100116: ctrl_goblin arch_dummie top
+    100118: ctrl_goblin arch_main
+    100120: elf_arch_01
+    100122: elf_quiver
+    100124: IK_goblin arch_botton
+    100126: IK_goblin arch_top
+    400000: barbarian
+    400002: Barbarian_weaponL
+    400004: Barbarian_weaponR
+    400006: Barbariancloth_back
+    400008: Barbariancloth_front
+    400010: BarbarianHead
+    400012: BarbarianLCalf
+    400014: BarbarianLCollarbone
+    400016: BarbarianLDigit11
+    400018: BarbarianLDigit11 1
+    400020: BarbarianLDigit12
+    400022: BarbarianLDigit13
+    400024: BarbarianLDigit21
+    400026: BarbarianLDigit22
+    400028: BarbarianLDigit23
+    400030: BarbarianLDigit31
+    400032: BarbarianLDigit32
+    400034: BarbarianLDigit33
+    400036: BarbarianLFoot
+    400038: BarbarianLForearm
+    400040: BarbarianLPalm
+    400042: BarbarianLThigh
+    400044: BarbarianLUpperarm
+    400046: BarbarianNeck
+    400048: BarbarianPelvis
+    400050: BarbarianRCalf
+    400052: BarbarianRCollarbone
+    400054: BarbarianRDigit11
+    400056: BarbarianRDigit11 1
+    400058: BarbarianRDigit12
+    400060: BarbarianRDigit13
+    400062: BarbarianRDigit21
+    400064: BarbarianRDigit22
+    400066: BarbarianRDigit23
+    400068: BarbarianRDigit31
+    400070: BarbarianRDigit32
+    400072: BarbarianRDigit33
+    400074: BarbarianRFoot
+    400076: BarbarianRForearm
+    400078: BarbarianRibcage
+    400080: BarbarianRPalm
+    400082: BarbarianRThigh
+    400084: BarbarianRUpperarm
+    400086: //RootNode
+    400088: BarbarianSpine1
+    400090: BarbarianSpine2
+    400092: BarbarianSpine3
+    400094: bon_gob_war_face
+    400096: bon_gob_war_jaw
+    400098: bone_elf arch_botton00
+    400100: bone_elf arch_botton01
+    400102: bone_elf arch_main
+    400104: bone_elf arch_top00
+    400106: bone_elf arch_top01
+    400108: bone_goblin arch_botton_tip
+    400110: bone_goblin arch_top_tip
+    400112: ctrl_goblin arch_arrow
+    400114: ctrl_goblin arch_dummie botton
+    400116: ctrl_goblin arch_dummie top
+    400118: ctrl_goblin arch_main
+    400120: elf_arch_01
+    400122: elf_quiver
+    400124: IK_goblin arch_botton
+    400126: IK_goblin arch_top
+    2300000: elf_quiver
+    3300000: elf_quiver
+    4300000: elf_quiver
+    4300002: barbarian
+    4300004: elf_arch_01
+    7400000: idle
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: barbarian
+    13700002: elf_arch_01
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: "Avatar Rig Configuration mis-match. Inbetween bone rotation
+      in configuration does not match rotation in animation file:\n\t'BarbarianSpine3'
+      : rotation error = 10.295125 deg\n\t'BarbarianRibcage' : rotation error = 2.839270
+      deg\n"
+    animationImportErrors: 
+    animationImportWarnings: "\nClip 'Take 001' has import animation warnings that
+      might lower retargeting quality:\nNote: Activate translation DOF on avatar to
+      improve retargeting quality.\n\t'BarbarianSpine3' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\t'BarbarianRibcage' is
+      inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'ctrl_goblin
+      arch_arrow' has translation animation that will be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: idle
+      takeName: 
+      firstFrame: 0
+      lastFrame: 50
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 3
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: BarbarianPelvis
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BarbarianLThigh
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BarbarianRThigh
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BarbarianLCalf
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BarbarianRCalf
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BarbarianLFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BarbarianRFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BarbarianSpine1
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BarbarianSpine2
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BarbarianNeck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BarbarianHead
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BarbarianLCollarbone
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BarbarianRCollarbone
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BarbarianLUpperarm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BarbarianRUpperarm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BarbarianLForearm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BarbarianRForearm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BarbarianLPalm
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BarbarianRPalm
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BarbarianLDigit11
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BarbarianRDigit11
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bon_gob_war_face
+      humanName: LeftEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bon_gob_war_jaw
+      humanName: Jaw
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BarbarianLDigit21
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BarbarianLDigit22
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BarbarianLDigit23
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BarbarianLDigit31
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BarbarianLDigit32
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BarbarianLDigit33
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Barbarian_weaponL
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ctrl_goblin arch_main
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ctrl_goblin arch_arrow
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BarbarianRDigit21
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BarbarianRDigit22
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BarbarianRDigit23
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BarbarianRDigit11 1
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BarbarianRDigit12
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BarbarianRDigit13
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BarbarianRDigit31
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BarbarianRDigit32
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BarbarianRDigit33
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: barbarians_archer(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: barbarian
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: elf_arch_01
+      parentName: 
+      position: {x: -1.9055176, y: 0.42394394, z: -0.0027595568}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BarbarianPelvis
+      parentName: 
+      position: {x: -0.000000018626451, y: 0.9360023, z: -0.112937495}
+      rotation: {x: 0.49912703, y: -0.5008716, z: -0.4991269, w: 0.5008715}
+      scale: {x: 1.0000001, y: 0.9999989, z: 1}
+    - name: Barbariancloth_back
+      parentName: 
+      position: {x: -0.0000843811, y: -0.02413002, z: -0.00249099}
+      rotation: {x: 0.0003502225, y: -0.10268169, z: 0.99465764, w: 0.010608507}
+      scale: {x: 1.0000001, y: 1.0000006, z: 1.0000006}
+    - name: Barbariancloth_front
+      parentName: 
+      position: {x: 0.00075874326, y: 0.21745722, z: 0.020061119}
+      rotation: {x: 0.014028005, y: 0.1079044, z: 0.99222386, w: -0.060428996}
+      scale: {x: 1, y: 1.0000005, z: 1.0000007}
+    - name: BarbarianRThigh
+      parentName: 
+      position: {x: -0.026286086, y: 0.071670376, z: -0.094465904}
+      rotation: {x: 0.008763523, y: 0.9990286, z: -0.0036323967, w: -0.043033067}
+      scale: {x: 0.9999995, y: 1.0000008, z: 0.9999996}
+    - name: BarbarianRCalf
+      parentName: 
+      position: {x: -0.45403072, y: 0.000000095367426, z: -0.000000038146972}
+      rotation: {x: -0.0007217527, y: 0.0013681651, z: 0.07432107, w: 0.9972332}
+      scale: {x: 0.9999999, y: 0.99999976, z: 0.9999999}
+    - name: BarbarianRFoot
+      parentName: 
+      position: {x: -0.48137054, y: 0, z: -0.000000019073486}
+      rotation: {x: 0.07716971, y: 0.0030392162, z: -0.72179246, w: 0.6877873}
+      scale: {x: 1.0000002, y: 1.0000004, z: 1.0000006}
+    - name: BarbarianRDigit11
+      parentName: 
+      position: {x: -0.22753781, y: 0.015741229, z: -0.0000025367735}
+      rotation: {x: 0.000000024214382, y: -0.00000009238855, z: -0.054379135, w: 0.9985204}
+      scale: {x: 1, y: 1.0000001, z: 0.9999998}
+    - name: BarbarianLThigh
+      parentName: 
+      position: {x: -0.026285933, y: 0.07167039, z: 0.09446584}
+      rotation: {x: 0.008761645, y: 0.9990224, z: 0.0036197307, w: 0.04317871}
+      scale: {x: 0.9999995, y: 1.0000008, z: 0.9999997}
+    - name: BarbarianLCalf
+      parentName: 
+      position: {x: -0.45403084, y: 0, z: 0.000000028610229}
+      rotation: {x: 0.0007035881, y: -0.0010379255, z: 0.074469835, w: 0.99722254}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000005}
+    - name: BarbarianLFoot
+      parentName: 
+      position: {x: -0.48137054, y: 0.0000000047683715, z: 0}
+      rotation: {x: -0.07703402, y: -0.0031523346, z: -0.7219073, w: 0.68768144}
+      scale: {x: 1.0000005, y: 1, z: 1}
+    - name: BarbarianLDigit11
+      parentName: 
+      position: {x: -0.22753784, y: 0.015741229, z: 0.0000025463103}
+      rotation: {x: 0.000000014901158, y: 0.00000017685227, z: -0.05437914, w: 0.9985204}
+      scale: {x: 0.99999976, y: 1.0000002, z: 1}
+    - name: BarbarianSpine1
+      parentName: 
+      position: {x: -0.069777146, y: -0.005338678, z: -0.000000015497207}
+      rotation: {x: 0.00000043213367, y: 0.000000029802322, z: 0.14936347, w: -0.9887824}
+      scale: {x: 0.99999994, y: 1.0000002, z: 1}
+    - name: BarbarianSpine2
+      parentName: 
+      position: {x: -0.20473228, y: 0, z: 0}
+      rotation: {x: -0.0000002980232, y: -0.000000029802319, z: -0.16632986, w: -0.9860702}
+      scale: {x: 0.9999999, y: 1.0000006, z: 0.9999996}
+    - name: BarbarianSpine3
+      parentName: 
+      position: {x: -0.17440444, y: 0, z: 5.9604643e-10}
+      rotation: {x: 0.00000008940696, y: -0.000000029802319, z: 0.07564815, w: 0.9971346}
+      scale: {x: 0.99999946, y: 1.0000008, z: 0.9999994}
+    - name: BarbarianRibcage
+      parentName: 
+      position: {x: -0.18741973, y: 0, z: 0}
+      rotation: {x: 0.000000029802322, y: -0.000000029802322, z: 0.09450579, w: -0.99552435}
+      scale: {x: 0.9999996, y: 0.99999964, z: 1.0000001}
+    - name: elf_quiver
+      parentName: 
+      position: {x: 1.372225, y: 0.57763946, z: 0.009825064}
+      rotation: {x: 0.72880274, y: -0.030877091, z: -0.63294077, w: 0.25938258}
+      scale: {x: 0.99999994, y: 1, z: 1.0000001}
+    - name: BarbarianLCollarbone
+      parentName: 
+      position: {x: 0.021011353, y: 0.122867584, z: 0.05614385}
+      rotation: {x: -0.031854834, y: -0.71347076, z: -0.19165207, w: -0.67321193}
+      scale: {x: 1.0000008, y: 1.0000004, z: 1.000001}
+    - name: BarbarianLUpperarm
+      parentName: 
+      position: {x: -0.17591049, y: -0.0000000047683715, z: 0}
+      rotation: {x: 0.14010537, y: -0.0055365185, z: -0.15811446, w: 0.97741485}
+      scale: {x: 0.9999999, y: 1.0000006, z: 0.99999964}
+    - name: BarbarianLForearm
+      parentName: 
+      position: {x: -0.3017057, y: 0, z: 0.000000076293944}
+      rotation: {x: 0.08285794, y: -0.0056647477, z: -0.022401739, w: 0.99629354}
+      scale: {x: 1.0000001, y: 0.9999992, z: 1.0000004}
+    - name: BarbarianLPalm
+      parentName: 
+      position: {x: -0.23329048, y: -0.000000009536743, z: 0}
+      rotation: {x: -0.76061875, y: 0.049303345, z: 0.036455203, w: 0.6462967}
+      scale: {x: 1, y: 1.0000004, z: 0.9999996}
+    - name: Barbarian_weaponL
+      parentName: 
+      position: {x: -0.120936275, y: -0.04018108, z: 0.00018440247}
+      rotation: {x: -0.4896598, y: 0.16238217, z: -0.010137302, w: 0.85659945}
+      scale: {x: 1.0000012, y: 0.9999994, z: 1.0000005}
+    - name: ctrl_goblin arch_main
+      parentName: 
+      position: {x: -0.012656021, y: 0.0014157867, z: -0.0026498414}
+      rotation: {x: -0.12927675, y: -0.6750381, z: 0.7257658, w: -0.029583408}
+      scale: {x: 0.9999991, y: 1.0000013, z: 1.0000005}
+    - name: ctrl_goblin arch_arrow
+      parentName: 
+      position: {x: 0.26275063, y: -0.010055103, z: 0.023827743}
+      rotation: {x: -0.7071068, y: -0.000000009219623, z: -0.000000011853802, w: 0.7071067}
+      scale: {x: 0.99999994, y: 0.99999994, z: 0.9999999}
+    - name: bone_elf arch_botton00
+      parentName: 
+      position: {x: -0, y: -0.000000038146972, z: 0}
+      rotation: {x: -0.15765482, y: 0.9831927, z: 0.09119761, w: 0.012657294}
+      scale: {x: 1.0000027, y: 1.0000011, z: 0.9999954}
+    - name: bone_elf arch_botton01
+      parentName: 
+      position: {x: -0.56072885, y: 0.0000020599364, z: 0}
+      rotation: {x: -0.000008209784, y: -0.000036464367, z: -0.9720928, w: 0.23459694}
+      scale: {x: 0.9999999, y: 1, z: 0.99999994}
+    - name: bone_goblin arch_botton_tip
+      parentName: 
+      position: {x: -0.5614599, y: -0.00000030517577, z: 0.000000038146972}
+      rotation: {x: 0.000006170595, y: -0.0000053525023, z: -0.0053012376, w: 0.999986}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone_elf arch_top00
+      parentName: 
+      position: {x: -0, y: -0.000000038146972, z: 0}
+      rotation: {x: -0.9845092, y: -0.14902735, z: -0.011809532, w: 0.091612905}
+      scale: {x: 1.0000031, y: 1.0000004, z: 0.99999756}
+    - name: bone_elf arch_top01
+      parentName: 
+      position: {x: -0.594305, y: -0.0000005340576, z: 0}
+      rotation: {x: -0.000067807916, y: 0.00028664322, z: 0.9728633, w: 0.23138052}
+      scale: {x: 0.9999999, y: 0.99999994, z: 1.0000001}
+    - name: bone_goblin arch_top_tip
+      parentName: 
+      position: {x: -0.57681185, y: 0.0000003814697, z: 0}
+      rotation: {x: -0.0000044423587, y: -0.0000012435756, z: 0.4613627, w: 0.8872116}
+      scale: {x: 0.9999999, y: 1, z: 1}
+    - name: ctrl_goblin arch_dummie botton
+      parentName: 
+      position: {x: -0, y: -0.07069799, z: -0.000000076293944}
+      rotation: {x: -0.7071068, y: -0.000000009219623, z: -0.000000011853802, w: 0.7071067}
+      scale: {x: 0.99999994, y: 0.99999994, z: 0.9999999}
+    - name: IK_goblin arch_botton
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -9.313227e-10, y: 1.387779e-17, z: -0.000000014901163, w: 1}
+      scale: {x: 0.99999994, y: 0.99999994, z: 0.9999999}
+    - name: ctrl_goblin arch_dummie top
+      parentName: 
+      position: {x: -0.0027908324, y: 0.06511709, z: 0.0000022125244}
+      rotation: {x: 0.0000025858917, y: 0.000007855438, z: 0.5370429, w: 0.8435549}
+      scale: {x: 0.99999994, y: 1, z: 0.99999994}
+    - name: IK_goblin arch_top
+      parentName: 
+      position: {x: -0.0000008010864, y: -0.00000030517577, z: -0.0000022125244}
+      rotation: {x: -0.5964854, y: 0.37974125, z: -0.3797521, w: 0.59648144}
+      scale: {x: 0.99999994, y: 0.99999994, z: 0.9999999}
+    - name: bone_elf arch_main
+      parentName: 
+      position: {x: 0.00879303, y: -0.0446565, z: 0}
+      rotation: {x: -0.7635533, y: -0.09319324, z: 0.07992493, w: -0.6339664}
+      scale: {x: 1.0000018, y: 1.0000011, z: 0.9999974}
+    - name: BarbarianLDigit11 1
+      parentName: 
+      position: {x: -0.038524244, y: 0.00095825194, z: 0.009483852}
+      rotation: {x: 0.52228886, y: 0.39939097, z: 0.021856455, w: 0.7531425}
+      scale: {x: 1.0000002, y: 1, z: 1.0000002}
+    - name: BarbarianLDigit12
+      parentName: 
+      position: {x: -0.064945295, y: 0, z: -0.000000076293944}
+      rotation: {x: -0.013421948, y: 0.015701497, z: 0.079653546, w: 0.9966086}
+      scale: {x: 1.0000004, y: 1.0000002, z: 1}
+    - name: BarbarianLDigit13
+      parentName: 
+      position: {x: -0.042855605, y: 0, z: 0}
+      rotation: {x: 0.0000012665986, y: 0.00000044703478, z: 0.19707713, w: 0.980388}
+      scale: {x: 0.9999995, y: 0.99999946, z: 0.99999994}
+    - name: BarbarianLDigit21
+      parentName: 
+      position: {x: -0.1516294, y: 0.0001348114, z: 0.044834632}
+      rotation: {x: 0.00058623764, y: 0.037379537, z: 0.01567034, w: 0.9991781}
+      scale: {x: 1.0000005, y: 1.0000002, z: 1}
+    - name: BarbarianLDigit22
+      parentName: 
+      position: {x: -0.05466751, y: 0, z: 0.000000038146972}
+      rotation: {x: 0.00000045914155, y: 0.0000010959327, z: 0.032674376, w: 0.9994661}
+      scale: {x: 0.99999976, y: 1.0000002, z: 1}
+    - name: BarbarianLDigit23
+      parentName: 
+      position: {x: -0.042855527, y: 0.000000076293944, z: 0}
+      rotation: {x: 0.00000051409006, y: 0.00000007264316, z: 0.028674547, w: 0.99958885}
+      scale: {x: 1, y: 0.9999995, z: 1.0000001}
+    - name: BarbarianLDigit31
+      parentName: 
+      position: {x: -0.15069099, y: 0.006372833, z: 0.0070065497}
+      rotation: {x: 0.002880495, y: -0.02118421, z: 0.038549807, w: 0.999028}
+      scale: {x: 0.99999994, y: 0.9999998, z: 1}
+    - name: BarbarianLDigit32
+      parentName: 
+      position: {x: -0.05277622, y: 0.000000038146972, z: 0}
+      rotation: {x: -0.0022001076, y: -0.00024080489, z: 0.034613233, w: 0.99939835}
+      scale: {x: 1.0000002, y: 1.0000005, z: 1}
+    - name: BarbarianLDigit33
+      parentName: 
+      position: {x: -0.034945317, y: -0.000000076293944, z: 0}
+      rotation: {x: -0.001360908, y: -0.0065510096, z: 0.2387101, w: 0.9710678}
+      scale: {x: 0.9999999, y: 1, z: 1.0000002}
+    - name: BarbarianNeck
+      parentName: 
+      position: {x: -0.02102066, y: 0.051551055, z: -0.000000022649765}
+      rotation: {x: -0.00000008940696, y: 0.00000004470348, z: -0.011181383, w: -0.9999375}
+      scale: {x: 1.0000005, y: 1, z: 1.0000006}
+    - name: BarbarianHead
+      parentName: 
+      position: {x: -0.114150845, y: 0.000000038146972, z: 0}
+      rotation: {x: 0.000000044703484, y: -0.000000014901161, z: 0.01118134, w: -0.9999375}
+      scale: {x: 1.0000005, y: 0.9999999, z: 1.0000007}
+    - name: bon_gob_war_face
+      parentName: 
+      position: {x: -0.0974884, y: 0.028021373, z: 0.00000065963985}
+      rotation: {x: 0.67362636, y: -0.73907214, z: 0.00000078231085, w: -0.00000040046865}
+      scale: {x: 1.0000011, y: 1.0000006, z: 0.99999976}
+    - name: bon_gob_war_jaw
+      parentName: 
+      position: {x: -0.010716828, y: 0.049715538, z: 0.0000011067841}
+      rotation: {x: 0.5308848, y: -0.847444, z: 0.00000078976143, w: -0.00000021606681}
+      scale: {x: 0.9999997, y: 1.0000004, z: 1}
+    - name: BarbarianRCollarbone
+      parentName: 
+      position: {x: 0.021011658, y: 0.12286755, z: -0.056143846}
+      rotation: {x: -0.03185483, y: -0.71347064, z: 0.19165228, w: 0.673212}
+      scale: {x: 1.000001, y: 1.0000005, z: 1.0000011}
+    - name: BarbarianRUpperarm
+      parentName: 
+      position: {x: -0.17591049, y: 0, z: 0}
+      rotation: {x: -0.14010541, y: 0.0055363732, z: -0.15811448, w: 0.97741485}
+      scale: {x: 0.9999998, y: 1.0000002, z: 0.99999964}
+    - name: BarbarianRForearm
+      parentName: 
+      position: {x: -0.3017057, y: 0, z: 0}
+      rotation: {x: -0.082857855, y: 0.0056648427, z: -0.022401754, w: 0.99629354}
+      scale: {x: 1.0000004, y: 1.0000001, z: 1.0000004}
+    - name: BarbarianRPalm
+      parentName: 
+      position: {x: -0.23329055, y: 0.000000019073486, z: 0}
+      rotation: {x: 0.7606186, y: -0.049303394, z: 0.03645536, w: 0.64629686}
+      scale: {x: 1.0000001, y: 0.9999998, z: 0.99999934}
+    - name: Barbarian_weaponR
+      parentName: 
+      position: {x: -0.11324862, y: -0.029194674, z: 0.00273254}
+      rotation: {x: -0.035207056, y: 0.13262078, z: 0.008917183, w: 0.9905012}
+      scale: {x: 1.0000006, y: 0.99999934, z: 1.0000007}
+    - name: BarbarianRDigit11 1
+      parentName: 
+      position: {x: -0.038524244, y: 0.00095825194, z: -0.009483871}
+      rotation: {x: -0.5384329, y: -0.16159487, z: -0.054946747, w: 0.8252018}
+      scale: {x: 0.99999976, y: 1.0000001, z: 1.0000002}
+    - name: BarbarianRDigit12
+      parentName: 
+      position: {x: -0.064945295, y: 0, z: 0.000000019073486}
+      rotation: {x: 0.013455971, y: -0.0076517425, z: 0.03881114, w: 0.9991267}
+      scale: {x: 1.0000002, y: 0.99999976, z: 0.9999999}
+    - name: BarbarianRDigit13
+      parentName: 
+      position: {x: -0.042855527, y: -0.000000009536743, z: 0.000000038146972}
+      rotation: {x: -0.0000014305115, y: -0.0000005066395, z: 0.1970772, w: 0.98038805}
+      scale: {x: 1.0000002, y: 0.9999998, z: 1.0000001}
+    - name: BarbarianRDigit31
+      parentName: 
+      position: {x: -0.15069076, y: 0.006372986, z: -0.007006607}
+      rotation: {x: 0.012358962, y: -0.06486773, z: 0.03350358, w: 0.9972547}
+      scale: {x: 0.9999999, y: 1.0000005, z: 0.99999946}
+    - name: BarbarianRDigit32
+      parentName: 
+      position: {x: -0.05277626, y: 0, z: 0}
+      rotation: {x: 0.0022004663, y: 0.00023944734, z: 0.03461493, w: 0.99939835}
+      scale: {x: 1.0000002, y: 1.0000005, z: 1.0000005}
+    - name: BarbarianRDigit33
+      parentName: 
+      position: {x: -0.034945317, y: -0.000000076293944, z: 0}
+      rotation: {x: 0.0013609353, y: 0.0065509523, z: 0.23871009, w: 0.97106785}
+      scale: {x: 1, y: 0.9999997, z: 0.9999997}
+    - name: BarbarianRDigit21
+      parentName: 
+      position: {x: -0.15162955, y: 0.0001347351, z: -0.04483467}
+      rotation: {x: -0.00045546648, y: -0.042033557, z: 0.01412767, w: 0.9990162}
+      scale: {x: 1.0000001, y: 1.0000011, z: 1.0000001}
+    - name: BarbarianRDigit22
+      parentName: 
+      position: {x: -0.054667585, y: 0, z: 0}
+      rotation: {x: -0.0000008903433, y: -0.00000031455383, z: 0.032673463, w: 0.9994661}
+      scale: {x: 1.0000001, y: 0.9999994, z: 0.9999995}
+    - name: BarbarianRDigit23
+      parentName: 
+      position: {x: -0.04285551, y: 0.000000076293944, z: 0}
+      rotation: {x: -0.0000005289912, y: -0.00000004656613, z: 0.028674662, w: 0.99958885}
+      scale: {x: 0.99999946, y: 1.0000001, z: 0.9999999}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
