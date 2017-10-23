@@ -5,7 +5,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{824F454C-2884-A9FE-0ABA-A64A827082DD}</ProjectGuid>
+    <ProjectGuid>{1CFCFD9C-4CC7-7819-022E-BA4305485649}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AssemblyName>Assembly-CSharp.dll</AssemblyName>
     <FileAlignment>512</FileAlignment>
@@ -219,9 +219,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="Project.Plugins.unityproj">
-      <Project>{F39CE7E6-E3BA-346B-6469-90CF88937EE9}</Project>
-      <Name>Project.Plugins</Name>
+    <ProjectReference Include="project.Plugins.unityproj">
+      <Project>{D2A27CAD-63A4-BC8D-021E-A12B8995B155}</Project>
+      <Name>project.Plugins</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
@@ -391,7 +391,11 @@
     <Compile Include="Assets\NGUI\Scripts\UI\UITexture.cs" />
     <Compile Include="Assets\NGUI\Scripts\UI\UITooltip.cs" />
     <Compile Include="Assets\NGUI\Scripts\UI\UIViewport.cs" />
+    <Compile Include="Assets\Scripts\CharacterBase.cs" />
+    <Compile Include="Assets\Scripts\FaceList.cs" />
+    <Compile Include="Assets\Scripts\HairList.cs" />
     <Compile Include="Assets\Scripts\Player.cs" />
+    <Compile Include="Assets\Scripts\UILogin.cs" />
     <Compile Include="Assets\ShowSkin.cs" />
   </ItemGroup>
   <ItemGroup>
