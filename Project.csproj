@@ -391,9 +391,12 @@
     <Compile Include="Assets\NGUI\Scripts\UI\UITexture.cs" />
     <Compile Include="Assets\NGUI\Scripts\UI\UITooltip.cs" />
     <Compile Include="Assets\NGUI\Scripts\UI\UIViewport.cs" />
+    <Compile Include="Assets\Scripts\CamBase.cs" />
     <Compile Include="Assets\Scripts\CharacterBase.cs" />
     <Compile Include="Assets\Scripts\FaceList.cs" />
     <Compile Include="Assets\Scripts\HairList.cs" />
+    <Compile Include="Assets\Scripts\LoginCamCtrl.cs" />
+    <Compile Include="Assets\Scripts\MoveObject.cs" />
     <Compile Include="Assets\Scripts\Player.cs" />
     <Compile Include="Assets\Scripts\UILogin.cs" />
     <Compile Include="Assets\ShowSkin.cs" />
